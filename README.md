@@ -1,4 +1,4 @@
-# 🛒 BigBasket Product Analytics Dashboard
+# BigBasket Product Analytics Dashboard
 
 ## Overview
 
@@ -27,10 +27,10 @@ The **BigBasket Product Analytics Dashboard** is an interactive web application 
 
 ```
 BigBasket-Dashboard/
-│── app.py
-│── BigBasket.csv
-│── requirements.txt
-│── README.md
+app.py
+BigBasket.csv
+requirements.txt
+README.md
 ```
 
 ## Installation
@@ -59,7 +59,7 @@ Run the application:
 streamlit run app.py
 ```
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 The dashboard includes:
 
@@ -74,7 +74,7 @@ The dashboard includes:
 * Interactive Search
 * Download Filtered Data
 
-## 📁 Dataset
+## Dataset
 
 The project uses the **BigBasket Product Dataset**, containing information such as:
 
@@ -86,7 +86,7 @@ The project uses the **BigBasket Product Dataset**, containing information such 
 * Discount Price
 * Quantity
 
-## 🎯 Future Enhancements
+## Future Enhancements
 
 * Dark Mode
 * Revenue Analysis
@@ -94,12 +94,12 @@ The project uses the **BigBasket Product Dataset**, containing information such 
 * Machine Learning-based Price Prediction
 * Deployment on Hugging Face Spaces
 
-## 👩‍💻 Author
+## 👩 Author
 
 **Amrita Singh**
 
 AI & Web Development Enthusiast
 
-## 📄 License
+##  License
 
 This project is intended for educational and learning purposes.
